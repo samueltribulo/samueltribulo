@@ -1,5 +1,4 @@
-![GIF](https://mograph.video/2HwFiEL)
-## Biemvenido a mi perfil
+![GIF](https://miro.medium.com/max/1000/1*UJkYsrYLJc0taD-ZY_D1mg.gif) 
                                                 
 ### **Un poco sobre mi**
 
