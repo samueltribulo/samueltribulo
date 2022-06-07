@@ -1,4 +1,4 @@
-![GIF](https://miro.medium.com/max/1000/1*UJkYsrYLJc0taD-ZY_D1mg.gif) 
+![JPG](https://wallpaperaccess.com/full/3909258.jpg) 
                                                 
 ### **Un poco sobre mi**
 
@@ -6,6 +6,8 @@
 
 
 👨‍💻Mi primer acercamiento a la programación fue en la universidad cuando me enseñaron el lenguaje C. Luego decidí estudiar desarrollo web profecional y entre varias opciones Opté por estudiar en Henry. A raiz de eso, aprendí un stack de tecnologías muy utilizadas en el mercado como lo son: JavaScript, HTML, CSS, React, Redux, NodeJs, Express, Postgresql y Sequelize.
+
+💼Tengo experiencia programando en dos proyectos que tuvieron lugar en mi cursada en Henry. El primero de ellos fue el PI (Protyecto individual) donde programé una SPA (Single page aplication), consumiendo la API de Spoonacular. El segundo proyecto PG (Proyecto grupal), donde junto a 5 compañeros construimos un ecommerce de venta de insumos para la minería de criptomonedas. 
 
 
 
