@@ -1,4 +1,4 @@
-![JPG](https://github.com/samueltribulo/samueltribulo/blob/main/portada.png)               
+![GIF](https://github.com/samueltribulo/samueltribulo/blob/main/Samuel%20Tribulo.gif)               
 ### **Un poco sobre mi**
 
 🙋‍♂️¡Hola! Mi nombre es Samuel y soy de Argentina. Soy desarrollador Full Stack con orientación al Front-end. Desde que descubrí el mundo de la programación y la infinidad de cosas que se puede hacer en este campo, decidí dar un giro de 180 grados y dedicarme a lo que me gusta. Programar se convirtió en una de las actividades que haría en mis últimos días de vida.
