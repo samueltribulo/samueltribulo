@@ -6,7 +6,7 @@
 <!-- Introduction -->
 <h1 align="center">Welcome to my GitHub profile!</h1><br>
 <p align="center">
-  I'm Samuel Tribulo, a 25-year-old full-time programmer currently working at Accenture Argentina. <br><br>
+  I'm Samuel Tribulo, a full-time programmer currently working at Accenture Argentina. <br><br>
   I'm studying Cybersecurity at the National University Raúl Scalabrini Ortiz (UNSO) and I’m truly passionate about everything related to cybersecurity. <br><br>
   In my current role, I actively implement security best practices and contribute to building secure software solutions. <br><br>
   My current goal is to land my first job in cybersecurity as a <strong>SOC Analyst</strong>. On this GitHub profile, I’ll be sharing technical documentation, solved labs, and valuable resources that showcase my growth in the field. <br><br>
